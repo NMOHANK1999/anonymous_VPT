@@ -1,1 +1,1 @@
-dummy dataset: https://web.engr.oregonstate.edu/~lif/SegTrack2/dataset.html
+self annotated dataset: https://universe.roboflow.com/vlr-n05rz/bair
